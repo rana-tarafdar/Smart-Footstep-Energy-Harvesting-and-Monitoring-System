@@ -1,0 +1,39 @@
+-- Controller & Display
+1.ESP32 Development Board × 1 ✅
+2.OLED 0.96″ (I2C) × 1 ✅
+
+-- Footstep Energy Generation
+3.Piezoelectric Disc Sensors (27mm) × 10 ✅
+4.Bridge Rectifier ✅
+-> 1N4007 diode × 4 ✅
+
+-- Signal Conditioning (Piezo → ESP32)
+
+5.Resistor 100 kΩ (BBYG) × 1 ✅
+6.Resistor 10 kΩ (BBOG) × 3 ✅
+7.Resistor 220 Ω (RRBG) × 3 ✅
+8.Capacitor 1 µF × 3 ✅
+
+-- Energy Storage (Piezo Battery Section)
+
+9.TP4056 Charging Module (with protection) × 1 ✅
+10.18650 Li-ion Battery (1200–2200 mAh) × 2 ✅
+11.18650 Battery Holder × 2 ✅
+
+-- ESP32 Power (USB)
+
+12.Slide / Toggle Switch (Power ON/OFF) × 2 ✅
+
+-- Day-Light Sensor
+
+13.LDR (Light Dependent Resistor) × 1 ✅
+
+-- Output / Indicator
+
+14.LED (5mm, White color) × 3 ✅
+15.Logic-level N-Channel MOSFET (IRF540) × 1 ✅
+
+-- Assembly 
+
+16.Breadboard × 2 ✅
+17.Jumper Wires (Male-Male + Male-Female) × 1 set ✅
