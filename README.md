@@ -89,7 +89,7 @@ Add the following URLs in **File → Preferences → Additional Board Manager UR
 - Real-time voltage monitoring
 - OLED local display
 - Auto-refresh web dashboard {In every 2 second (Considering it as a bad idea.) }
-- WiFi-based local access
+- WiFi-based local access (IP address : 192.168.4.1)
 - Maximum AC and DC voltage tracking
 - Day/Night status detection
 
